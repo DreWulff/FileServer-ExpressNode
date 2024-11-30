@@ -3,7 +3,8 @@
 Serverside app for managing clients requests for downloading and updating different sets of files.  
 Written in JavaScript with the Express framework for the Node environment.
 
-### Warning: This is a work-in-progress, and even though it works, it is not secure yet.
+> [!WARNING]
+> This is a work-in-progress, and even though it works, it carries huge potential risks.
 
 ## Setup
 Clone this repository in any folder with the following command:
