@@ -3,7 +3,7 @@
 Serverside app for managing clients requests for downloading and updating different sets of files.  
 Written in JavaScript with the Express framework for the Node environment.
 
-> [!WARNING]
+> [!CAUTION]
 > This is a work-in-progress, and even though it works, it carries huge security risks.
 
 ## Setup
